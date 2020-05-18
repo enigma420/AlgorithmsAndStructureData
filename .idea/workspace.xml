@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2740296a-e08a-4981-bb03-37d615f169f7" name="Default Changelist" comment="I.Smallest and largest Value Array:&#10;&#10;Content of task: &quot;Find Smallest and Largest Element in an Array&quot;&#10;&#10;steps:&#10;1. Initialise two variable and name as largest and smallest with array first position arr[0]&#10;2. Iterate over array&#10;3.&#10;    a)If current element is greater than largest then assign current element to largest.&#10;    b)If current element is smaller than smallest then assign current element to smallest.&#10;4.Output smallest and largest number in table first and second position.&#10;&#10;II. Missing number in array&#10;&#10;Content of task: &quot;find missing number in an Array&quot;&#10;&#10;steps:&#10;1. Find the sum of n number using formula &quot;n=n*(n+1)/2&quot;&#10;2. Find the sum of elements present in given array&#10;3. Substract(sum of n numbers - sum of elements present in the array)">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/exception/LinkedListEmptyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/StepsToSolve" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/StepsToSolve" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/search_minimum_and_maximum_element_in_sorted_and_rotated_array/MinimumElementSortedAndRotatedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/search_minimum_and_maximum_element_in_sorted_and_rotated_array/MinimumElementSortedAndRotatedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayXor.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringByUsingAscii.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,13 +38,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayHashing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="465">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/exception/LinkedListEmptyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <folding>
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,13 +160,16 @@
         <option value="$PROJECT_DIR$/src/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayHashing.java" />
         <option value="$PROJECT_DIR$/src/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayXor.java" />
         <option value="$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve" />
+        <option value="$PROJECT_DIR$/src/algorithms/stacks/exception/LinkedListEmptyException.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-53" />
     <option name="y" value="8" />
-    <option name="width" value="979" />
+    <option name="width" value="1038" />
     <option name="height" value="1051" />
   </component>
   <component name="ProjectView">
@@ -175,15 +207,7 @@
               <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="number_occurring_odd_number_of_times_in_array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="stacks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +221,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.npm/create-react-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithms/stacks" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -205,6 +229,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/algorithms/stacks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/algorithms/strings" />
     </key>
@@ -221,13 +248,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddTimesNumberInArrayXor">
-    <configuration name="MinimumElementSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.search_minimum_and_maximum_element_in_sorted_and_rotated_array.MinimumElementSortedAndRotatedArray" />
+  <component name="RunManager" selected="Application.LinkedListStack">
+    <configuration name="LinkedListStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.stacks.LinkedListStack" />
       <module name="AlgorithmsAndStructureData" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.arrays.search_minimum_and_maximum_element_in_sorted_and_rotated_array.*" />
+          <option name="PATTERN" value="algorithms.stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.missing_number_in_array.MissingNumberInArray" />
+    <configuration name="MinimumElementSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.search_minimum_and_maximum_element_in_sorted_and_rotated_array.MinimumElementSortedAndRotatedArray" />
       <module name="AlgorithmsAndStructureData" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.arrays.missing_number_in_array.*" />
+          <option name="PATTERN" value="algorithms.arrays.search_minimum_and_maximum_element_in_sorted_and_rotated_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListStack" />
         <item itemvalue="Application.OddTimesNumberInArrayXor" />
         <item itemvalue="Application.OddTimesNumberInArrayHashing" />
         <item itemvalue="Application.MinimumElementSortedAndRotatedArray" />
         <item itemvalue="Application.SearchElementSortedAndRotatedArray" />
-        <item itemvalue="Application.MissingNumberInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +336,7 @@
       <updated>1589810023916</updated>
       <workItem from="1589810025111" duration="4236000" />
       <workItem from="1589822826351" duration="3448000" />
-      <workItem from="1589828207786" duration="6356000" />
+      <workItem from="1589828207786" duration="7940000" />
     </task>
     <task id="LOCAL-00001" summary="III. Unique String&#10;&#10;Content of task: &quot;How to check if String has all unique characters in java&quot;&#10;&#10;steps:&#10;a)&#10;1. You can add each char to hashSet&#10;2. If hashset's add method returns false then it does not have all unique characters because hashSet cannot have got two adequate keys.&#10;&#10;b)&#10;1. Create a boolean array of 26 length&#10;2. Convert char to uppercase and get its ascii value&#10;3. Subtract 64 to ascii value to get index between 0 to 25.&#10;4. If character is not repeated then we should have false in the boolean array">
       <created>1589811629241</created>
@@ -329,12 +356,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14040000" />
+    <option name="totallyTimeSpent" value="15624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-53" y="8" width="979" height="1051" extended-state="0" />
+    <frame x="-53" y="8" width="1038" height="1051" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28831726" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29133064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,20 +485,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayHashing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="465">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/exception/LinkedListEmptyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="29" />
+        <state relative-caret-position="45">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
         </state>
       </provider>
     </entry>

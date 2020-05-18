@@ -52,5 +52,12 @@ V. Odd Times Numbers In Array
 
 Content of Task: "Find the number occurring odd number of times in an array"
 
+O(n)
+
 steps:
-1.
+1. get elements by for each loop and put into HashMap (key => number , value => occuring times)
+2. create empty list of Odd Times Elements
+3. Iterate through HashMap elements
+4. If getValue % 2 == 1 then add number to list of Odd Times Elements
+5. If list of Odd Times Elements is empty then throw ArithmeticException ("Array dont have odd times numbers")
+6. return list
