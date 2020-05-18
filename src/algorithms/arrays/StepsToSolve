@@ -1,0 +1,23 @@
+Algorithms:
+
+I.Smallest and largest Value Array:
+
+Content of task: "Find Smallest and Largest Element in an Array"
+
+steps:
+1. Initialise two variable and name as largest and smallest with array first position arr[0]
+2. Iterate over array
+3.
+    a)If current element is greater than largest then assign current element to largest.
+    b)If current element is smaller than smallest then assign current element to smallest.
+4.Output smallest and largest number in table first and second position.
+
+II. Missing number in array
+
+Content of task: "find missing number in an Array"
+
+steps:
+1. Find the sum of n number using formula "n=n*(n+1)/2"
+2. Find the sum of elements present in given array
+3. Substract(sum of n numbers - sum of elements present in the array)
+
