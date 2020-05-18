@@ -12,6 +12,7 @@ steps:
     b)If current element is smaller than smallest then assign current element to smallest.
 4.Output smallest and largest number in table first and second position.
 
+
 II. Missing number in array
 
 Content of task: "find missing number in an Array"
@@ -20,6 +21,7 @@ steps:
 1. Find the sum of n number using formula "n=n*(n+1)/2"
 2. Find the sum of elements present in given array
 3. Substract(sum of n numbers - sum of elements present in the array)
+
 
 III. Element in a sorted and rotated array
 
@@ -35,3 +37,20 @@ steps:
 5.
     a) If number lies between the range, high = mid--
     b) If number does not lie in the range, low = mid++
+
+
+IV. Search Minimum and Maximum Elements in sorted and rotated Array
+
+Content of task: "find minimum and maximum elements in a sorted and rotated array"
+
+steps:
+1. Sort array by sort() method
+2. Minimum element is in first cell, Maximum element is in last cell
+
+
+V. Odd Times Numbers In Array
+
+Content of Task: "Find the number occurring odd number of times in an array"
+
+steps:
+1.
