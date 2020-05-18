@@ -1,4 +1,4 @@
-package algorithms.string;
+package algorithms;
 
 public class Anagram {
 
