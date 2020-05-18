@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2740296a-e08a-4981-bb03-37d615f169f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/arrays/search_element_in_sorted_or_rotated_array/SearchElementSortedAndRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/Anagram.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/reverse_string/StringRecursiveReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringByUsingAscii.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/StepsToSolve">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/search_element_in_sorted_or_rotated_array/SearchElementSortedAndRotatedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/smallest_and_largest_array_value/SmallestAndLargestArrayValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/missing_number_in_array/MissingNumberInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/Create_Unique_String_algorithm" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/beginners/string/reverse_string/StringRecursiveReverse.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/reverse_string/StringRecursiveReverse.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/reverse_string/StringRecursiveReverse.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/strings/reverse_string/StringRecursiveReverse.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueString.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringIndexOf.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringByUsingAscii.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/strings/StepsToSolveAlgorithm" />
+        <option value="$PROJECT_DIR$/src/algorithms/arrays/SmallestAndLargestArrayValue.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/arrays/smallest_and_largest_array_value/SmallestAndLargestArrayValue.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/arrays/missing_number_in_array/MissingNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve" />
+        <option value="$PROJECT_DIR$/src/algorithms/arrays/search_element_in_sorted_or_rotated_array/SearchElementSortedAndRotatedArray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/AlgorithmsAndStructureData.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-53" />
+    <option name="y" value="8" />
+    <option name="width" value="979" />
+    <option name="height" value="1051" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.npm/create-react-app" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/algorithms/strings" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SearchElementSortedAndRotatedArray">
+    <configuration name="MissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.missing_number_in_array.MissingNumberInArray" />
+      <module name="AlgorithmsAndStructureData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.arrays.missing_number_in_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchElementSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.search_element_in_sorted_or_rotated_array.SearchElementSortedAndRotatedArray" />
+      <module name="AlgorithmsAndStructureData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.arrays.search_element_in_sorted_or_rotated_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestAndLargestArrayValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.smallest_and_largest_array_value.SmallestAndLargestArrayValue" />
+      <module name="AlgorithmsAndStructureData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.arrays.smallest_and_largest_array_value.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueStringByUsingAscii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.strings.unique_string.UniqueStringByUsingAscii" />
+      <module name="AlgorithmsAndStructureData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.strings.unique_string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueStringIndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.strings.unique_string.UniqueStringIndexOf" />
+      <module name="AlgorithmsAndStructureData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.strings.unique_string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchElementSortedAndRotatedArray" />
+        <item itemvalue="Application.MissingNumberInArray" />
+        <item itemvalue="Application.SmallestAndLargestArrayValue" />
+        <item itemvalue="Application.UniqueStringByUsingAscii" />
+        <item itemvalue="Application.UniqueStringIndexOf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2740296a-e08a-4981-bb03-37d615f169f7" name="Default Changelist" comment="" />
+      <created>1589810023916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589810023916</updated>
+      <workItem from="1589810025111" duration="4236000" />
+      <workItem from="1589822826351" duration="3448000" />
+    </task>
+    <task id="LOCAL-00001" summary="III. Unique String&#10;&#10;Content of task: &quot;How to check if String has all unique characters in java&quot;&#10;&#10;steps:&#10;a)&#10;1. You can add each char to hashSet&#10;2. If hashset's add method returns false then it does not have all unique characters because hashSet cannot have got two adequate keys.&#10;&#10;b)&#10;1. Create a boolean array of 26 length&#10;2. Convert char to uppercase and get its ascii value&#10;3. Subtract 64 to ascii value to get index between 0 to 25.&#10;4. If character is not repeated then we should have false in the boolean array">
+      <created>1589811629241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589811629241</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I.Smallest and largest Value Array:&#10;&#10;Content of task: &quot;Find Smallest and Largest Element in an Array&quot;&#10;&#10;steps:&#10;1. Initialise two variable and name as largest and smallest with array first position arr[0]&#10;2. Iterate over array&#10;3.&#10;    a)If current element is greater than largest then assign current element to largest.&#10;    b)If current element is smaller than smallest then assign current element to smallest.&#10;4.Output smallest and largest number in table first and second position.&#10;&#10;II. Missing number in array&#10;&#10;Content of task: &quot;find missing number in an Array&quot;&#10;&#10;steps:&#10;1. Find the sum of n number using formula &quot;n=n*(n+1)/2&quot;&#10;2. Find the sum of elements present in given array&#10;3. Substract(sum of n numbers - sum of elements present in the array)">
+      <created>1589822532952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589822532952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7684000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-53" y="8" width="979" height="1051" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2818864" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32901832" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.399137" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32901832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="III. Unique String&#10;&#10;Content of task: &quot;How to check if String has all unique characters in java&quot;&#10;&#10;steps:&#10;a)&#10;1. You can add each char to hashSet&#10;2. If hashset's add method returns false then it does not have all unique characters because hashSet cannot have got two adequate keys.&#10;&#10;b)&#10;1. Create a boolean array of 26 length&#10;2. Convert char to uppercase and get its ascii value&#10;3. Subtract 64 to ascii value to get index between 0 to 25.&#10;4. If character is not repeated then we should have false in the boolean array" />
+    <MESSAGE value="I.Smallest and largest Value Array:&#10;&#10;Content of task: &quot;Find Smallest and Largest Element in an Array&quot;&#10;&#10;steps:&#10;1. Initialise two variable and name as largest and smallest with array first position arr[0]&#10;2. Iterate over array&#10;3.&#10;    a)If current element is greater than largest then assign current element to largest.&#10;    b)If current element is smaller than smallest then assign current element to smallest.&#10;4.Output smallest and largest number in table first and second position.&#10;&#10;II. Missing number in array&#10;&#10;Content of task: &quot;find missing number in an Array&quot;&#10;&#10;steps:&#10;1. Find the sum of n number using formula &quot;n=n*(n+1)/2&quot;&#10;2. Find the sum of elements present in given array&#10;3. Substract(sum of n numbers - sum of elements present in the array)" />
+    <option name="LAST_COMMIT_MESSAGE" value="I.Smallest and largest Value Array:&#10;&#10;Content of task: &quot;Find Smallest and Largest Element in an Array&quot;&#10;&#10;steps:&#10;1. Initialise two variable and name as largest and smallest with array first position arr[0]&#10;2. Iterate over array&#10;3.&#10;    a)If current element is greater than largest then assign current element to largest.&#10;    b)If current element is smaller than smallest then assign current element to smallest.&#10;4.Output smallest and largest number in table first and second position.&#10;&#10;II. Missing number in array&#10;&#10;Content of task: &quot;find missing number in an Array&quot;&#10;&#10;steps:&#10;1. Find the sum of n number using formula &quot;n=n*(n+1)/2&quot;&#10;2. Find the sum of elements present in given array&#10;3. Substract(sum of n numbers - sum of elements present in the array)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringIndexOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/strings/reverse_string/StringRecursiveReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringByUsingAscii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/strings/StepsToSolve">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/smallest_and_largest_array_value/SmallestAndLargestArrayValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/missing_number_in_array/MissingNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/search_element_in_sorted_or_rotated_array/SearchElementSortedAndRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/StepsToSolve">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AlgorithmsAndStructureData</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+Algorithms:
+
+I.Reverse String:
+
+Content of task: "How to reverse a String in java?"
+
+steps:
+1. Declare empty string for reverse output
+2. Iterate over array using for loop from last index to first
+3. Add character to output String during iterating
+
+II. Anagram
+
+Content of task: "Write a java program to check if two Strings are anagram in java?"
+
+steps:
+a)
+1. Word and anagram as method's parameters
+2. Iterate over String word and get char c by charAt()
+3. If index of char is -1 in second String anagram, then two strings are not anagrams
+4. If you get empty String in the end, then two Strings are anagrams of each other
+
+b)
+1. Word and anagram as method's parameters
+2. If length are not this same then they are not anagrams
+3. create an array of 256 length
+4. Iterate over string word
+5. In each iteration, we increment count of word and decrement count of anagram
+6. If count of any character is not 0 at the end, it means that two strings are not anagrams
+
+III. Unique String
+
+Content of task: "How to check if String has all unique characters in java"
+
+steps:
+a)
+1. You can add each char to hashSet
+2. If hashset's add method returns false then it does not have all unique characters because hashSet cannot have got two adequate keys.
+
+b)
+1. Create a boolean array of 26 length
+2. Convert char to uppercase and get its ascii value
+3. Subtract 64 to ascii value to get index between 0 to 25.
+4. If character is not repeated then we should have false in the boolean array
