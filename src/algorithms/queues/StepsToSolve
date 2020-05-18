@@ -1,0 +1,14 @@
+Algorithms:
+
+I.Queue using Linked List
+
+Content of task: "Implement Queue using Linked List"
+
+steps:
+1. Create QueueUsingLinkedList class and declare int currentSize and Node front,rear
+2. Create nest class "Node" which stores int data and Node next
+3. Create constructor for QueueUsingLinkedList class where initialize front and rear as null and currentSize = 0
+4. Create method isEmpty() which checks if the LinkedList is empty
+5. Create method dequeue() which assign front.data and front.next to data and front. If isEmpty then rear = null. If not then decrement currentSize and reutnr data
+6. Create method enqueue() with int data parameter which assign current rear to oldRear and create new rear instanceof Node. Assign data to rear.data and null to rear.next
+After checks if the LinkedList is empty then assign rear to front otherwise assign rear to oldRear.next . In the end we need to increment currentSize value;

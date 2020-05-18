@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2740296a-e08a-4981-bb03-37d615f169f7" name="Default Changelist" comment="I.Smallest and largest Value Array:&#10;&#10;Content of task: &quot;Find Smallest and Largest Element in an Array&quot;&#10;&#10;steps:&#10;1. Initialise two variable and name as largest and smallest with array first position arr[0]&#10;2. Iterate over array&#10;3.&#10;    a)If current element is greater than largest then assign current element to largest.&#10;    b)If current element is smaller than smallest then assign current element to smallest.&#10;4.Output smallest and largest number in table first and second position.&#10;&#10;II. Missing number in array&#10;&#10;Content of task: &quot;find missing number in an Array&quot;&#10;&#10;steps:&#10;1. Find the sum of n number using formula &quot;n=n*(n+1)/2&quot;&#10;2. Find the sum of elements present in given array&#10;3. Substract(sum of n numbers - sum of elements present in the array)">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/stacks/exception/LinkedListEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/queues/QueueUsingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/queues/StepsToSolve" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/StepsToSolve" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/StepsToSolve" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/AlgorithmsAndStructureData/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayXor.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,24 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/unique_string/UniqueStringByUsingAscii.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/StepsToSolve">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/number_occurring_odd_number_of_times_in_array/OddTimesNumberInArrayHashing.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,11 +42,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+              <caret line="11" column="5" lean-forward="true" selection-end-line="11" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/queues/QueueUsingLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="677">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+              <folding>
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/queues/StepsToSolve">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/strings/reverse_string/StringBufferReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -92,15 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/arrays/search_element_in_sorted_and_rotated_array/SearchElementSortedAndRotatedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -163,6 +164,8 @@
         <option value="$PROJECT_DIR$/src/algorithms/stacks/exception/LinkedListEmptyException.java" />
         <option value="$PROJECT_DIR$/src/algorithms/stacks/LinkedListStack.java" />
         <option value="$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve" />
+        <option value="$PROJECT_DIR$/src/algorithms/queues/QueueUsingLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/queues/StepsToSolve" />
       </list>
     </option>
   </component>
@@ -200,7 +203,7 @@
               <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="queues" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
@@ -208,6 +211,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="stacks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="anagram_string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsAndStructureData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsAndStructureData" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse_string" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListStack">
+  <component name="RunManager" selected="Application.QueueUsingLinkedList">
     <configuration name="LinkedListStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.stacks.LinkedListStack" />
       <module name="AlgorithmsAndStructureData" />
@@ -301,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchElementSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.arrays.search_element_in_sorted_and_rotated_array.SearchElementSortedAndRotatedArray" />
+    <configuration name="QueueUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.queues.QueueUsingLinkedList" />
       <module name="AlgorithmsAndStructureData" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.arrays.search_element_in_sorted_and_rotated_array.*" />
+          <option name="PATTERN" value="algorithms.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueUsingLinkedList" />
         <item itemvalue="Application.LinkedListStack" />
         <item itemvalue="Application.OddTimesNumberInArrayXor" />
         <item itemvalue="Application.OddTimesNumberInArrayHashing" />
         <item itemvalue="Application.MinimumElementSortedAndRotatedArray" />
-        <item itemvalue="Application.SearchElementSortedAndRotatedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +362,7 @@
       <updated>1589810023916</updated>
       <workItem from="1589810025111" duration="4236000" />
       <workItem from="1589822826351" duration="3448000" />
-      <workItem from="1589828207786" duration="7940000" />
+      <workItem from="1589828207786" duration="10922000" />
     </task>
     <task id="LOCAL-00001" summary="III. Unique String&#10;&#10;Content of task: &quot;How to check if String has all unique characters in java&quot;&#10;&#10;steps:&#10;a)&#10;1. You can add each char to hashSet&#10;2. If hashset's add method returns false then it does not have all unique characters because hashSet cannot have got two adequate keys.&#10;&#10;b)&#10;1. Create a boolean array of 26 length&#10;2. Convert char to uppercase and get its ascii value&#10;3. Subtract 64 to ascii value to get index between 0 to 25.&#10;4. If character is not repeated then we should have false in the boolean array">
       <created>1589811629241</created>
@@ -356,7 +382,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15624000" />
+    <option name="totallyTimeSpent" value="18606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-53" y="8" width="1038" height="1051" extended-state="0" />
@@ -526,10 +552,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/strings/reverse_string/StringBufferReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/queues/QueueUsingLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/stacks/StepsToSolve">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <caret line="11" column="5" lean-forward="true" selection-end-line="11" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/queues/StepsToSolve">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
         </state>
       </provider>
     </entry>
