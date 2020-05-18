@@ -26,4 +26,12 @@ III. Element in a sorted and rotated array
 Content of task: "Search an element in a sorted and rotated array"
 
 steps:
-1. 
+1. Compute mid from formula mid = (low+high)/2
+2. Check if [mid...high] is sorted
+3.
+    a) If number lies between the range, low = mid++
+    b) If number does not lie in the range, high = mid--
+4. Check if [low...mid] is sorted
+5.
+    a) If number lies between the range, high = mid--
+    b) If number does not lie in the range, low = mid++

@@ -1,4 +1,4 @@
-package algorithms.arrays.search_element_in_sorted_or_rotated_array;
+package algorithms.arrays.search_element_in_sorted_and_rotated_array;
 
 public class SearchElementSortedAndRotatedArray {
 
