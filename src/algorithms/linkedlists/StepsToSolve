@@ -1,0 +1,15 @@
+Algorithms:
+
+I.Stack using Linked List
+
+Content of task: "Implement stack using Linked List"
+
+steps:
+1. Create Node class with int data and Node next fields
+2. Create SinglyLinkedList class with Node head field
+3. Create method isEmpty() which checks if linkedlist is empty
+4. Create insertFirst() for insert a node at the start of linked list
+5. Create deleteFirst() for delete node from start of linked list
+6. Create deleteAfter() for delete node after particular node
+7. Create insertLast() for insert a node at the end of linked list
+8. Crate printLinkedList() for printing linked list
