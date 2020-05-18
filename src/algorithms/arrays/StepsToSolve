@@ -35,3 +35,11 @@ steps:
 5.
     a) If number lies between the range, high = mid--
     b) If number does not lie in the range, low = mid++
+
+IV. Search Minimum and Maximum Elements in sorted and rotated Array
+
+Content of task: "find minimum and maximum elements in a sorted and rotated array"
+
+steps:
+1. Sort array by sort() method
+2. Minimum element is in first cell, Maximum element is in last cell
