@@ -1,0 +1,17 @@
+Algorithms:
+
+I.Reverse String:
+
+Content of task: "How to reverse a String in java?"
+
+steps:
+1. Declare empty string for reverse output
+2. Iterate over array using for loop from last index to first
+3. Add character to output String during iterating
+
+II. Anagram
+
+Content of task: "Write a java program to check if two Strings are anagram in java?"
+
+steps:
+
