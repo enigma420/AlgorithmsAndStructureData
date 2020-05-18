@@ -1,0 +1,12 @@
+Algorithms:
+
+I.Stack using Linked List
+
+Content of task: "Implement stack using Linked List"
+
+steps:
+1. Create nest class "Node" which define LinkedList node with int value and Node next
+2. declare in LinkedListStack first node with name "head"
+3. Create method pop() which check that head is null then throw LinkedListEmptyException() and assign head value to returned value also assign head next to head
+4. Create method push() which assign head to oldHead, declare new Node head and assigns value to head.value and oldHead to head.next
+*Create Exception class which extends from RuntimeException which throw exception in case of head is null
