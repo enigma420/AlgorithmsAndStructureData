@@ -28,3 +28,17 @@ b)
 5. In each iteration, we increment count of word and decrement count of anagram
 6. If count of any character is not 0 at the end, it means that two strings are not anagrams
 
+III. Unique String
+
+Content of task: "How to check if String has all unique characters in java"
+
+steps:
+a)
+1. You can add each char to hashSet
+2. If hashset's add method returns false then it does not have all unique characters because hashSet cannot have got two adequate keys.
+
+b)
+1. Create a boolean array of 26 length
+2. Convert char to uppercase and get its ascii value
+3. Subtract 64 to ascii value to get index between 0 to 25.
+4. If character is not repeated then we should have false in the boolean array

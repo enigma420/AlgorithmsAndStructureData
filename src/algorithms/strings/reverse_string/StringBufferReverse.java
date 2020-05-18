@@ -1,4 +1,4 @@
-package algorithms.string.reverse_string;
+package algorithms.strings.reverse_string;
 
 public class StringBufferReverse {
 

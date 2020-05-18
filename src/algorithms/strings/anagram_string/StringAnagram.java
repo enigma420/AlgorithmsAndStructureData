@@ -1,4 +1,4 @@
-package algorithms.string.anagram_string;
+package algorithms.strings.anagram_string;
 
 public class StringAnagram {
     public static boolean isAnagram(String word, String anagram) {
